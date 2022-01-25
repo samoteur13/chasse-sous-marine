@@ -1,0 +1,111 @@
+@media screen and (max-width:974px) {
+    @keyframes plongeur {
+        from {
+            top: -19%;
+            transform: rotate(80deg);
+        }
+        10% {
+            top: -14%;
+            transform: rotate(65deg);
+        }
+        15% {
+            transform: rotate(50deg);
+        }
+        20% {
+            top: 0%;
+            transform: rotate(40deg);
+        }
+        25% {
+            transform: rotate(30deg);
+        }
+        30% {
+            top: 47%;
+            transform: rotate(0deg);
+            left: 17%;
+        }
+        40% {
+            top: 47%;
+            left: 27%
+        }
+        50% {
+            top: 47%;
+            left: 40%;
+        }
+        60% {
+            top: 47%;
+            left: 50%;
+        }
+        70% {
+            top: 47%;
+            left: 60%;
+        }
+        80% {
+            top: 47%;
+            left: 70%;
+        }
+        90% {
+            top: 47%;
+            left: 100%;
+        }
+        to {
+            top: 47%;
+            left: 100%;
+        }
+    }
+    
+    @keyframes poisson {
+        from {
+            top: 50%;
+            left: 29%;
+        }
+        10% {
+            top: 50%;
+            left: 39%;
+        }
+        20% {
+            top: 50%;
+            left: 49%;
+        }
+        30% {
+            top: 50%;
+            left: 59%;
+        }
+        40% {
+            top: 50%;
+            left: 69%
+        }
+        50% {
+            top: 50%;
+            left: 79%;
+        }
+        60% {
+            top: 50%;
+            left: 89%;
+        }
+        70% {
+            top: 50%;
+            left: 99%;
+        }
+        80% {
+            top: 50%;
+            left: 100%;
+        }
+        90% {
+            top: 50%;
+            left: 100%;
+        }
+        to {
+            top: 50%;
+            left: 100%;
+        }
+    }
+    
+    
+    
+    body {
+        overflow-x: hidden;
+        background-color: #F9FAFB;
+        font-family: cursive, serif;
+    }
+
+}
