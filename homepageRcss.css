@@ -1,4 +1,4 @@
-@media screen and (max-width:974px) {
+@media screen and (max-width:800px) {
     @keyframes plongeur {
         from {
             top: -19%;
@@ -99,13 +99,17 @@
             left: 100%;
         }
     }
-    
-    
-    
+
+    header img {
+        position: inherit;
+        display:none
+    }
+
     body {
         overflow-x: hidden;
         background-color: #F9FAFB;
         font-family: cursive, serif;
     }
+
 
 }
