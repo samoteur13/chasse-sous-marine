@@ -1,4 +1,4 @@
-@keyframes plongeur {
+/* @keyframes plongeur {
     from {
         top: -19%;
         transform: rotate(80deg);
@@ -40,15 +40,15 @@
     }
     80% {
         top: 6%;
-        left: 70%;
+        left: 60%;
     }
     90% {
         top: 6%;
-        left: 100%;
+        left: 60%;
     }
     to {
         top: 6%;
-        left: 100%;
+        left: 60%;
     }
 }
 
@@ -79,25 +79,25 @@
     }
     60% {
         top: 11%;
-        left: 89%;
+        left: 84%;
     }
     70% {
         top: 11%;
-        left: 99%;
+        left: 84%;
     }
     80% {
         top: 11%;
-        left: 100%;
+        left: 84%;
     }
     90% {
         top: 11%;
-        left: 100%;
+        left: 84%;
     }
     to {
         top: 11%;
-        left: 100%;
+        left: 84%;
     }
-}
+} */
 
 body {
     overflow-x: hidden;
@@ -123,7 +123,7 @@ h1 {
     border-radius: 4px
 }
 
-header img {
+/* header img {
     position: absolute;
 }
 
@@ -141,7 +141,7 @@ header img {
     animation-iteration-count: infinite;
     animation-name: plongeur;
     animation-duration: 7s;
-}
+} */
 
 footer a {
     text-decoration: none;
