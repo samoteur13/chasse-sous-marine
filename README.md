@@ -2,7 +2,7 @@
 
 This project was completed as part of my training program. It's my first website, created around one of my favorite hobbies, spearfishing. The site was designed using HTML, CSS, and Bootstrap for a user-friendly layout.
 
-![Spearfishing Website Screenshot](./img/spearfishingCapture.png)
+![Spearfishing Website Screenshot](./img/chassSousMarineCapture.png)
 
 ## Site Content
 
